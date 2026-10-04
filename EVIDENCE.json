@@ -1,0 +1,39 @@
+{
+ "project": "LLM",
+ "slug": "chip-quantiz-llm",
+ "collection": "CHIP QUANTIZATION",
+ "vendor": "Anticloud FZ LLE",
+ "licence": "Apache-2.0 + Enterprise commercial dual (Anticommons 1.0)",
+ "detected_stack": [
+  "docs-only"
+ ],
+ "pax_inference_artifact": false,
+ "measured_results": [],
+ "not_measured": [
+  "no results file carried value + provenance"
+ ],
+ "millennium_proposals": [
+  "P01",
+  "P02",
+  "P03",
+  "P04",
+  "P05",
+  "P06",
+  "P07",
+  "P08",
+  "P09",
+  "P10",
+  "P11",
+  "P12",
+  "P13",
+  "P14"
+ ],
+ "doc_sections": [
+  "01_INVESTOR_PACKAGE",
+  "10_TECHNICAL_HANDOFF",
+  "25_MILLENNIUM_PROBLEM_PROPOSALS",
+  "28_TECHNICAL_WHITEPAPER",
+  "29_INVESTOR_MEMO",
+  "30_LOI"
+ ]
+}

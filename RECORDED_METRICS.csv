@@ -1,0 +1,3 @@
+metric,status,note
+TRL,NOT-MEASURED,no verified run recorded
+Throughput,MEASURED(NOT-MEASURED (project scope; class ref 4.1-4.2 tok/s Kaggle v52)),reported by project metric ledger
